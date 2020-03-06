@@ -1,5 +1,6 @@
 
 ![logo](images/MM-logo.png) 
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
 # MineMeld
 
